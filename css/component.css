@@ -568,6 +568,13 @@
         font-size: 56px;
     }
 }
+
+@media (max-width: 600px){
+    .hero__heading{
+        font-size: 48px;
+    }
+}
+
 .hero__text{
     color: #000;
 }
