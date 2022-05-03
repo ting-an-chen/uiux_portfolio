@@ -579,6 +579,10 @@
     color: #000;
 }
 
+.bold{
+    display: inline-block;
+    font-weight: 700;
+}
 
 
 
